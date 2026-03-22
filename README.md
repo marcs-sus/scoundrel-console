@@ -8,7 +8,7 @@ Scoundrel is a playing cards dungeon crawler rogue-like game, originally created
 
 ## Original Rules
 
-For more information on the original game rules, please check out the `OriginalRules.pdf` file included in this repository.
+For more information on the original game rules, please check out the [`OriginalRules.pdf`](OriginalRules.pdf) file included in this repository.
 
 ## Features
 
